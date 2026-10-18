@@ -88,6 +88,6 @@ Malla Reddy University | 2026
 - Pursue opportunities in cybersecurity and digital forensics.
   
 Connect With Me
-GitHub:(https://github.com/chreya07)
+GitHub:https://github.com/chreyavuniyala
 Email:chreyavuniyala007@gmail.com
 LinkedIn:www.linkedin.com/in/chreyavuniyala
