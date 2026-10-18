@@ -42,9 +42,42 @@ This list reflects tools I have used; my proficiency will be demonstrated throug
 - Undergraduate Degree in Digital Forensic Science-
 Malla Reddy University | 2026
 
+**Technical Skills**
+
+- **Digital Forensics:** Digital evidence handling, forensic investigation fundamentals, report writing
+- **Cybersecurity:** Network security fundamentals, incident response fundamentals, threat analysis
+- **Tools:** Wireshark, Kali Linux, Nmap
+- **Operating Systems:** Linux command line
+- **Research Interests:** Malware Analysis, Reverse Engineering, Threat Intelligence, IoT Forensics
+
+
+
 **Certifications and Training**
 
-- Details of relevant cybersecurity training, certifications, presentations, and academic achievements will be added as they are verified and documented.
+**Internship Experience**
+
+**Cybershakti Foundation**
+- **Area:** Cybersecurity and Digital Forensics
+- **Project:** -Advanced Malware Analysis and Reverse Engineering
+- Gained exposure to cybersecurity concepts and digital investigation practices through internship project work.
+- Further project details and methodology will be documented in a dedicated project page.
+
+**Training, Workshops and Achievements**
+
+**1. Cybersecurity Training Workshop**
+- **Organization:** SIFS India
+
+**2. Cyber Attacks and Digital Forensic Tools and Crime Scene Simulation**
+- **Organization:** SIFS India
+
+**3. Blockchain Technology — Poster Presentation**
+- **Event:** FIRST International Conference on Advances in Forensics & Cyber Technologies
+- **Institution:** Malla Reddy University
+- **Achievement:** Participated and presented a poster on Blockchain Technology.
+
+**4. CLUES Team Training**
+- **Organization:** CLUES Team, Telangana Police Department
+- **Achievement:** Completed training and received a certificate.
 
 **Current Goals**
 
