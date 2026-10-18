@@ -1,6 +1,6 @@
-**Hi, I'm Chreya Vuniyala 
+**Hi, I'm Chreya Vuniyala **
 
-Digital Forensics Graduate | Aspiring Cybersecurity Professional**
+**Digital Forensics Graduate | Aspiring Cybersecurity Professional**
 
 Welcome to my GitHub portfolio!
 
