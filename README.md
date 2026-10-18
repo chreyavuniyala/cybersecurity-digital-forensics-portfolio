@@ -25,26 +25,26 @@ My goal is to approach technical challenges with analytical thinking, attention 
 
 **Tools I Have Used**
 
-Wireshark — network traffic analysis
-Kali Linux — cybersecurity learning and lab environments
-Nmap — network scanning and exploration
-Linux Command Line — navigating and working in Linux environments
+- Wireshark — network traffic analysis
+- Kali Linux — cybersecurity learning and lab environments
+- Nmap — network scanning and exploration
+- Linux Command Line — navigating and working in Linux environments
 
 This list reflects tools I have used; my proficiency will be demonstrated through documented projects and practical exercises.
 
 **Experience**
 
-Cybershakti Foundation — investigation-related experience. Detailed responsibilities and contributions will be documented accurately.
-CLUES Team Field Project — field exposure related to scientific crime investigation and evidence workflows.
+- Cybershakti Foundation — investigation-related experience. Detailed responsibilities and contributions will be documented accurately.
+- CLUES Team Field Project — field exposure related to scientific crime investigation and evidence workflows.
 
 **Education**
 
-Undergraduate Degree in Digital Forensic Science
+- Undergraduate Degree in Digital Forensic Science-
 Malla Reddy University | 2026
 
 **Certifications and Training**
 
-Details of relevant cybersecurity training, certifications, presentations, and academic achievements will be added as they are verified and documented.
+- Details of relevant cybersecurity training, certifications, presentations, and academic achievements will be added as they are verified and documented.
 
 **Current Goals**
 
